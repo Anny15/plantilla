@@ -1,0 +1,58 @@
+html{
+background-image: url("http://previews.123rf.com/images/nalinn/nalinn1504/nalinn150401334/38908449-Impresi-n-de-la-pata-del-perro-de-patr-n-sin-fisuras-en-el-fondo-blanco-Foto-de-archivo.jpg");
+}
+#opcion{
+border:2px violet solid;
+width:75em; 
+height:5em;
+text-align: center;
+color: white;
+font-family: cursive;
+margin: auto;
+}
+#title{
+font-size: 4em;
+color: violet;
+}
+#desplegable{
+width: 75em;
+height:45em;
+border:2px violet solid;
+margin: auto;
+display:flex;
+flex-direction:column;
+}
+#foto{
+border:3px pink solid;
+width:40%;
+height:50%; 
+margin:3 auto;
+left: 50px;
+margin-left: 350px;
+background-repeat:round;
+padding-left: 50px;
+padding-right: 50px;
+margin-left: 310px;
+}
+#contener{
+width:90%;
+height:45%;
+border:2px pink solid;
+margin: auto;
+display: flex;
+justify-content: space-between;
+flex-wrap:wrap; 
+}
+.imagn{
+border:2px pink solid;
+width: 200px;
+height: 150px;
+text-align: center;
+padding: 2px;
+background-repeat:round;
+}
+#I{
+	width: 100%;
+	height: 100%;
+
+}
